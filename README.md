@@ -9,7 +9,7 @@ A clean and professional portfolio website built from scratch as part of the Cod
 ### 🔗 Links
 - **GitHub Repository:** https://github.com/katlehoMalekeCUT/my-portofolio
 - **Live Website:** Coming soon (to be deployed in upcoming module)
-- **LinkedIn Post:** [Add your LinkedIn post link here]
+- **LinkedIn Post:** https://www.linkedin.com/in/katleho-maleke-412306231
 
 ### 📝 What I Did in Module 1:
 
@@ -27,7 +27,7 @@ A clean and professional portfolio website built from scratch as part of the Cod
 ### 📂 Project Structure:
 - `index.html` - Main website structure
 - `style.css` - Basic styling
-- `/images` - Profile image and assets
+- `/images` - Profile image 
 
 ### 👨‍💻 Author
 **Katleho Maleke**
